@@ -2,6 +2,8 @@
 
 👋 Hi, I’m Paul, an independent designer, writer and occasional speaker based in Brighton, England. I work with public sector organisations to help them design and deliver brilliant digital services.
 
+Learn [a little about me and how I like to work](MANUAL.md).
+
 ## Personal projects
 
 * [Personal website](https://github.com/paulrobertlloyd/paulrobertlloyd-v4), there are many like it, but this is mine.
