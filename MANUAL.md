@@ -1,10 +1,13 @@
+---
+Last updated: 4 September 2023
+Reading time: Less than 5 minutes
+---
+
 # User manual
 
 👋 Hi, I’m Paul, an independent designer, writer and occasional speaker based in Brighton, England. I work with public sector organisations to help them design and deliver brilliant digital services.
 
 This is my user manual, a quick way to know a little about me and how I like to work.
-
-This is a living document that was last updated on 4 September 2023.
 
 ## Working hours
 
