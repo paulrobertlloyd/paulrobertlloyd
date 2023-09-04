@@ -40,13 +40,13 @@ I may speak in meetings with a lot of confidence and assuredness but this doesn�
 
 I love collaborating around a design problem, but will need time on my own to reflect, too.
 
-I tend to be a structured, visual thinker and like to work in collaborative documents and whiteboards. 
+I tend to be a structured, visual thinker and like to work in collaborative documents and whiteboards.
 
 I feel better able to contribute when people involved in a meeting are sharing the same space, be that a remote call or meeting room.
 
 I learn by doing. This means I will sometimes rush into designing a solution. Since I’m no longer working in the abstract, this helps me understand a problem and pull it apart.
 
-## Proving feedback
+## Providing feedback
 
 I appreciate openness and honesty. I’d rather have difficult conversations than leave things unsaid or engage in inauthentic communication.
 
