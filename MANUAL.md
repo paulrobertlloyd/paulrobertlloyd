@@ -4,7 +4,7 @@
 
 This is my user manual, a quick way to know a little about me and how I like to work.
 
-A living document, it was last updated on 27 August 2023.
+This is a living document that was last updated on 4 September 2023.
 
 ## Working hours
 
