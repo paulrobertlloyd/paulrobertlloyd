@@ -9,6 +9,7 @@ Learn [a little about me and how I like to work](MANUAL.md).
 * [Personal website](https://github.com/paulrobertlloyd/paulrobertlloyd-v4), there are many like it, but this is mine.
 * [Indiekit](https://github.com/getindiekit/), a Node.js server with all the parts needed to publish content to personal websites and share it on social networks.
 * [Bradshaw’s Guide](https://github.com/bradshawsguide), a digital revival of a Victorian favourite.
+* [Classnames](https://github.com/paulrobertlloyd/classnames), a source of inspiration for naming things.
 
 ## Contributor
 
