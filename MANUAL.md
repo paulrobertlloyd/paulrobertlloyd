@@ -1,5 +1,5 @@
 ---
-Last updated: 4 September 2023
+Last updated: 2 January 2025
 Reading time: Less than 5 minutes
 ---
 
@@ -77,7 +77,7 @@ My principles sometimes get the better of me.
 
 ## Other things to know about me
 
-- Currently learning to speak Portuguese, albeit slowly.
+- Currently learning to speak German, albeit slowly.
 - I avoid flying for ecological reasons, but enjoy travelling around Europe by train and then [writing about my adventures](https://paulrobertlloyd.com/categories/travel/).
 - Have several side projects on the go. I may spend my spare time iterating the design of [my website](https://paulrobertlloyd.com), developing [Indiekit](https://getindiekit.com) or adding content to [Bradshaw’s Guide](https://beta.bradshaws.guide).
 - I closely follow Formula 1, although unsure why.
