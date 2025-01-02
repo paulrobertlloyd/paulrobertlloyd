@@ -77,22 +77,22 @@ My principles sometimes get the better of me.
 
 ## Other things to know about me
 
-* Currently learning to speak Portuguese, albeit slowly.
-* I avoid flying for ecological reasons, but enjoy travelling around Europe by train and then [writing about my adventures](https://paulrobertlloyd.com/categories/travel/).
-* Have several side projects on the go. I may spend my spare time iterating the design of [my website](https://paulrobertlloyd.com), developing [Indiekit](https://getindiekit.com) or adding content to [Bradshaw’s Guide](https://beta.bradshaws.guide).
-* I closely follow Formula 1, although unsure why.
-* My favourite quote is the first sentence from [The Go-Between](https://en.wikipedia.org/wiki/The_Go-Between), by L. P. Hartley:
+- Currently learning to speak Portuguese, albeit slowly.
+- I avoid flying for ecological reasons, but enjoy travelling around Europe by train and then [writing about my adventures](https://paulrobertlloyd.com/categories/travel/).
+- Have several side projects on the go. I may spend my spare time iterating the design of [my website](https://paulrobertlloyd.com), developing [Indiekit](https://getindiekit.com) or adding content to [Bradshaw’s Guide](https://beta.bradshaws.guide).
+- I closely follow Formula 1, although unsure why.
+- My favourite quote is the first sentence from [The Go-Between](https://en.wikipedia.org/wiki/The_Go-Between), by L. P. Hartley:
 
-    > The past is a foreign country; they do things differently there.
+  > The past is a foreign country; they do things differently there.
 
-* One day I’ll get a dog.
+- One day I’ll get a dog.
 
-* * *
+---
 
 I was inspired to write my user manual after hearing [Vimla Appadoo talk about company cultures](https://2023.uxlondon.com/speakers/vimla-appadoo/), and having values and working practices radiate from team members rather than be imposed top down.
 
 Here are some useful resources if you want to learn more and create your own:
 
-* [A Manual of Me](https://designedandmade.substack.com/p/a-manual-of-me) – Emma Howell
-* [Create a User Manual of Me to promote empathy & effective working through lockdown](https://medium.com/@_clairebarrett_/c0b4bfc5eddf) – Claire Barrett
-* [A user manual for me](https://cassierobinson.medium.com/d3a851fbc694) – Cassie Robinson
+- [A Manual of Me](https://designedandmade.substack.com/p/a-manual-of-me) – Emma Howell
+- [Create a User Manual of Me to promote empathy & effective working through lockdown](https://medium.com/@_clairebarrett_/c0b4bfc5eddf) – Claire Barrett
+- [A user manual for me](https://cassierobinson.medium.com/d3a851fbc694) – Cassie Robinson
